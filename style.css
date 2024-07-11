@@ -1,0 +1,61 @@
+.ota{
+display: flex;
+justify-content: space-evenly;
+list-style: none;
+}
+
+.bola{
+    color: rgb(0, 0, 0);
+    font-family: "Inter";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 100px;
+    text-decoration: none;
+    
+}
+.ff{
+ text-align: center; 
+ list-style: none;
+ text-decoration: none;
+}
+.title{
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+text-decoration: none;
+
+
+}
+.doda{
+display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+text-decoration: none;
+}
+
+
+
+.kola{
+    background-color:#FF0000 ;
+    width: 558px;
+    height: 452px;
+    margin-right: 190px;
+    color: aliceblue;
+    color: rgb(255, 255, 255);
+    font-family: "Inter";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    display: flex;
+justify-content: center;
+text-align: center;
+align-items: center;
+text-decoration: none;
+    
+}
